@@ -1,0 +1,29 @@
+.container{
+    background-color: aqua;
+    height: 100vw;
+    width:100vh;
+
+}
+
+.imgage {
+    height: 100px;
+    width: 100px;
+}
+
+.contact {
+    background-color: blueviolet;
+    height:100vh;
+    width:100vw;
+}
+
+.nav-link {
+    background-color: aqua;
+    border-radius: 20px;
+
+}
+
+.logo {
+    height: 100px;
+    width:150px;
+   
+}
